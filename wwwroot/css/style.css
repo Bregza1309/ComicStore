@@ -1,0 +1,24 @@
+﻿body {
+    display:flex;
+    flex-direction:column;
+    flex-shrink:inherit
+}
+li{
+    margin-left:100px;
+}
+#card{
+    width:fit-content;
+    height:fit-content;
+}
+#favourites{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+#img{
+    transform:translateY(10%);
+    transition:.7s;
+}
+#img:hover{
+    transform:translateY(100px);
+}

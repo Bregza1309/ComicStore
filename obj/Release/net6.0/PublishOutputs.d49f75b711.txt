@@ -1,0 +1,7 @@
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\ComicStore.exe
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\ComicStore.dll
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\ComicStore.deps.json
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\ComicStore.runtimeconfig.json
+F:\c#_workspace\Assignment\ComicStore\obj\Release\net6.0\PubTmp\Out\ComicStore.pdb

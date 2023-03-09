@@ -1,0 +1,22 @@
+﻿@model List<string>
+@{
+    ViewData["Title"] = "Favourites";
+}
+<h3 class="display-3 text-center">Favourites</h3>
+<hr/>
+<div id="favourites">
+    @foreach (string comic in Model)
+    {
+        
+        <div class="text-center" id="card">
+            <div class="card-body ">
+                <img src="~/images/@(comic).jpg" width="300" height="250" id="comic"/>
+            </div>
+            <div >
+                <h4 class="card-title">@comic</h4>
+            </div>
+        </div>
+        
+    }
+</div>
+
